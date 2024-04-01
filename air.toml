@@ -1,0 +1,3 @@
+# air.toml
+root = "."
+build_cmd = "go build -o ./reload/main  ./main.go"
